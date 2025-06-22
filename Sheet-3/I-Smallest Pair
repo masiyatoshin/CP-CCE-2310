@@ -1,7 +1,7 @@
-Problem name -Smallest Pair
-Course Code - CCE-2310
-Course Title - Competitive Programming Sessional
-Course Teacher - Mirza Raquib
+//Problem name -Smallest Pair
+//Course Code - CCE-2310
+//Course Title - Competitive Programming Sessional
+//Course Teacher - Mirza Raquib
 #include<bits/stdc++.h>
 using namespace std;
 int main ()
